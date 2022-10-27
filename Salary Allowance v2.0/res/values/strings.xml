@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Salary Allowance</string>
+    <string name="basic_salary">Basic salary</string>
+    <string name="ca">Conveyance Allowance (CA)</string>
+    <string name="da">Dearness Allowance (DA)</string>
+    <string name="hra">House Rent Allowance (HRA)</string>
+    <string name="lic">Life Insurance Corporation (LIC)</string>
+    <string name="pf">Provident Fund (PF)</string>
+    <string name="other">Other Allowances</string>
+    <string name="gross_pay">Gross pay</string>
+    <string name="net_pay">NET PAY</string>
+    <string name="deduction">Deduction</string>
+</resources>
